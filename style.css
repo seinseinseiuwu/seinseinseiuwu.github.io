@@ -1,0 +1,43 @@
+h1 {
+    font-family: monospace;
+    color: rgb(187, 96, 158);
+    font-size: 43px;}
+
+body{
+      background-color: #b6a0e0;
+}
+    
+img {
+      border: 5px solid #9e3487;
+      }
+
+h3 { 
+      font-size:24px;
+      color: rgb(106, 61, 149);
+      font-family: sans-serif; 
+}
+li {
+      font-family: sans-serif;
+      color: #53049e;
+      font-size: 21px;
+      font-weight: 340;
+      font-style: inherit;
+}
+
+h2 { font-family: sans-serif;
+      color:rgb(108, 66, 113);
+      text-decoration-line: underline;
+      border-color: rgb(88, 83, 83);
+      border-width: 2px;
+      border-style: solid;
+      padding: 35px 35px 35px 35px;
+}
+
+ol {font-family: sans-serif; 
+      color:rgb(152, 64, 124);
+      border-color:rgb(174, 74, 174);
+      border-style: dashed;
+      border-width: 4px;
+      padding: 12px 30px 12px 12px;
+      font-size: 29px;
+}
